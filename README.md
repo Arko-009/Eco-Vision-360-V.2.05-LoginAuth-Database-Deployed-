@@ -72,10 +72,15 @@ Other
 **Authentication & routing**
 MVC-style project structure
 ├── models        # Database schemas
+
 ├── routes        # Express routes
+
 ├── views         # EJS templates
+
 ├── public        # Static assets (CSS, JS, images)
+
 ├── app.js        # Main server file
+
 ├── package.json
 
 **Author** -Arko Bag
